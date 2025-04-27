@@ -1,0 +1,32 @@
+body{
+    flex-direction: column;
+    flex-wrap: wrap;
+    background: url(img/phonebg.jpg);
+}
+.container{
+    width: 60rem;
+}
+aside{
+    margin-left: 21em;
+}
+#signin_section{
+    width: 25rem;
+}
+#signup_section{
+    width: 25rem;
+}
+#signin_btn1{
+    margin-left: 5rem;
+}
+header h1{
+    font-size: 6rem;
+}
+aside h1{
+    font-size: 5rem;
+}
+#signin_btn1{
+    margin-left:3rem ;
+}
+#incon{
+    margin-right:5rem ;
+}
